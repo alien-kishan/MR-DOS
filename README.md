@@ -5,7 +5,7 @@
 
 ### CLONE
 ```
-# git clone https://github.com/CyberXCodder/XerXes.git
+# git clone https://github.com/alien-kishan/MR-DOS.git
 ```
 
 ### COMPILE
